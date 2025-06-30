@@ -19,7 +19,7 @@ All you need is a text editor of your preference. No complex installations or so
   > Open `index.html` in the browser of your choice.
   > Run the app.
 
-## 📂 File Structure
+## File Structure
 
 ```bash
 Adventour/
@@ -39,4 +39,13 @@ Adventour/
 │   │   ├── *.jpg / *.jpeg / *.webp
 
 ```
+##  Author
+
+**Ayush Kesharwani**  
+- [LinkedIn](https://www.linkedin.com/in/ayushkesharwani1207/)  
+- [GitHub](https://github.com/kesharwaniayush)  
+- [Twitter (X)](https://x.com/AyushKesha85344)
+
+## License
+This project is licensed under the MIT License. Feel free to use and modify it for your personal or commercial use.
 
